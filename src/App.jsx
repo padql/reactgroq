@@ -26,7 +26,7 @@ function App() {
           type="button"
           className='bg-green-600 py-2 px-4 font-bold text-white rounded-md'>Kirim</button>
         </form>
-        <div className='bg-green-200 max-w-xl w-full mx-auto'>
+        <div className='bg-green-200 max-w-xl w-full mx-auto overflow-scroll'>
           {data ? (
         <SyntaxHighlight language='swift' style={darcula} wrapLongLines={true}>
           {data}
