@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://PadQL.github.io/reactgroq/",
+  "homepage": "https://padql.github.io/reactgroq/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
